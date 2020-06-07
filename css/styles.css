@@ -417,6 +417,9 @@ footer.footer .wrapper a:hover {
     body {
         font-size: 15px;
     }
+    h1 {
+        font-size: 2em;
+    }
     section.preferences .wrapper {
         width: 170px;
     }
@@ -425,5 +428,8 @@ footer.footer .wrapper a:hover {
     }
     section.timer span.timer {
         font-size: 2em;
+    }
+    section.plan {
+        font-size: 13px;
     }
 }
